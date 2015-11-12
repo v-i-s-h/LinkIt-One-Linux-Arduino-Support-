@@ -3,9 +3,9 @@
     {
       "name": "LinkIt One Linux Support",
       "maintainer": "Vishnu Raj",
-      "websiteURL": "http://labs.mediatek.com/linkitone",
+      "websiteURL": "https://github.com/v-i-s-h/LinkIt-One-Linux-Arduino-Support-",
       "help": {
-        "online": "http://labs.mediatek.com/forums/forums/show/11.page"
+        "online": "https://github.com/v-i-s-h/LinkIt-One-Linux-Arduino-Support-"
       },
       "platforms": [
         {
