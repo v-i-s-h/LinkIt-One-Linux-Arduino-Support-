@@ -1,7 +1,7 @@
 {
   "packages": [
     {
-      "name": "LinkItLinux",
+      "name": "LinkItOne Linux Arduino",
       "maintainer": "Vishnu Raj",
       "websiteURL": "https://github.com/v-i-s-h/LinkIt-One-Linux-Arduino-Support-",
       "help": {
@@ -9,7 +9,7 @@
       },
       "platforms": [
         {
-          "name": "LinkItLinux",
+          "name": "LinkItOne Linux Arduino",
           "architecture": "arm",
           "version": "1.1.17",
           "category": "Contributed",
@@ -25,12 +25,12 @@
           ],
           "toolsDependencies": [
             {
-              "packager": "LinkItLinux",
+              "packager": "LinkItOne Linux Arduino",
               "name": "arm-none-eabi-gcc",
               "version": "4.8.3-2014q1"
             },
             {
-              "packager": "LinkItLinux",
+              "packager": "LinkItOne Linux Arduino",
               "name": "linkit_tools",
               "version": "1.1.17"
             }
@@ -92,16 +92,17 @@
             },
             {
               "host":"x86_64-pc-linux-gnu",
-              "archiveFileName": "mediatek_linkit_sdk_tool_windows-1.1.17.zip",
-              "url": "http://download.labs.mediatek.com/mediatek_linkit_sdk_tool_windows-1.1.17.zip",
-              "checksum": "SHA-256:dd7df756143d368b7645580f561f8a04f0b21431a12ae0bbcedc96a967597152",
-              "size": "16372292"
+              "archiveFileName": "master.zip",
+              "url": "https://github.com/v-i-s-h/LinkItOne-Linux-Arduino/archive/master.zip",
+              "checksum": "SHA-256:10a73b6e0a12b9ccfaa0791ad83ca911f69c3e725be266272d239b310f51e6d5",
+              "size": "168931"
             },
             {
-              "archiveFileName": "mediatek_linkit_sdk_tool_windows-1.1.17.zip",
-              "url": "http://download.labs.mediatek.com/mediatek_linkit_sdk_tool_windows-1.1.17.zip",
-              "checksum": "SHA-256:dd7df756143d368b7645580f561f8a04f0b21431a12ae0bbcedc96a967597152",
-              "size": "16372292"
+              "host":"i686-linux-gnu",
+              "archiveFileName": "master.zip",
+              "url": "https://github.com/v-i-s-h/LinkItOne-Linux-Arduino/archive/master.zip",
+              "checksum": "SHA-256:10a73b6e0a12b9ccfaa0791ad83ca911f69c3e725be266272d239b310f51e6d5",
+              "size": "168931"
             }
           ]
         }
