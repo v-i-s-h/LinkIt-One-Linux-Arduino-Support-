@@ -1,15 +1,15 @@
 {
   "packages": [
     {
-      "name": "LinkIt",
-      "maintainer": "Seeed Studio and MediaTek Labs",
+      "name": "LinkIt One Linux Support",
+      "maintainer": "Vishnu Raj",
       "websiteURL": "http://labs.mediatek.com/linkitone",
       "help": {
         "online": "http://labs.mediatek.com/forums/forums/show/11.page"
       },
       "platforms": [
         {
-          "name": "LinkIt ONE",
+          "name": "LinkIt ONE Linux Support",
           "architecture": "arm",
           "version": "1.1.17",
           "category": "Contributed",
