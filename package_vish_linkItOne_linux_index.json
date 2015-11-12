@@ -1,7 +1,7 @@
 {
   "packages": [
     {
-      "name": "LinkItOne Linux Arduino",
+      "name": "LinkItOneLinuxArduino",
       "maintainer": "Vishnu Raj",
       "websiteURL": "https://github.com/v-i-s-h/LinkIt-One-Linux-Arduino-Support-",
       "help": {
@@ -9,7 +9,7 @@
       },
       "platforms": [
         {
-          "name": "LinkItOne Linux Arduino",
+          "name": "LinkItOneLinuxArduino",
           "architecture": "arm",
           "version": "1.1.17",
           "category": "Contributed",
@@ -25,12 +25,12 @@
           ],
           "toolsDependencies": [
             {
-              "packager": "LinkItOne Linux Arduino",
+              "packager": "LinkItOneLinuxArduino",
               "name": "arm-none-eabi-gcc",
               "version": "4.8.3-2014q1"
             },
             {
-              "packager": "LinkItOne Linux Arduino",
+              "packager": "LinkItOneLinuxArduino",
               "name": "linkit_tools",
               "version": "1.1.17"
             }
